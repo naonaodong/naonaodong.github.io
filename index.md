@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages (naonaodong)
 
+你可以点击[QQ直接联系](https://wpa.qq.com/msgrd?v=3&uin=648930496&site=qq&menu=yes)找我，我也是个小白新手！
+
 You can use the [editor on GitHub](https://github.com/naonaodong/naonaodong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
